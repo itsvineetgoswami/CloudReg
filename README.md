@@ -1,5 +1,6 @@
 # CloudReg
 Cloud bases registration form
+![refrence architecture](https://github.com/user-attachments/assets/6f62aa62-7d25-4fb6-b1a8-8fa4d0a18a70)
 
 ## Step 1: Create DynamoDB Table
 
